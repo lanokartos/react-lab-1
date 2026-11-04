@@ -44,4 +44,3 @@ A task is done only when `npm run lint`, `npm run format:check` and `npm run bui
 - Keep each change small and limited to the task.
 - After editing, summarise what changed and show the check results.
 - Never put secrets (API keys, tokens, passwords) in the code. Every `VITE_*` variable ends up in the public bundle.
-
