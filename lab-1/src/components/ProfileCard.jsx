@@ -32,4 +32,3 @@ export default function ProfileCard({ name, group, technologies }) {
     </article>
   )
 }
-
